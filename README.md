@@ -1,4 +1,4 @@
-# Contains Code for Tutorial in [Medium](https://medium.com/@adiptamartulandi)
+# Code Included for Tutorial on [Medium](https://medium.com/@adiptamartulandi)
 
 ### Elastic Search Series
 - Introduction to ES [Here](https://medium.com/@adiptamartulandi/part-1-perkenalan-elasticsearch-f4a59282ddda)
